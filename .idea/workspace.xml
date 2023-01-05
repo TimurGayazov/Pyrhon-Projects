@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fd307a08-1edf-4b38-bfa5-1018404fedd8" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Info_bot_vk">
+      <favorite_root url="file://$PROJECT_DIR$/messages/test_file.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+    </favorites_list>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_file.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="19" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lab5.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1350">
+              <caret line="201" column="33" lean-forward="true" selection-start-line="201" selection-start-column="33" selection-end-line="201" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/qwerty.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="3" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>vk</find>
+      <find>vk.method</find>
+      <find>random</find>
+      <find>author_7</find>
+      <find>Учебник: Разумовская М.М.</find>
+      <find>author_8[]</find>
+      <find>author_5[]</find>
+      <find>author_9[]</find>
+      <find>по</find>
+      <find>author_6[10]</find>
+      <find>But_7kl[5]</find>
+      <find>Учебник : Г.В.Дорофеева,С.Б.Суворов.</find>
+      <find>author_8[13]</find>
+      <find>author_6[15]</find>
+      <find>author_7[1]</find>
+      <find>import cv2, os</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Письмо.txt" />
+        <option value="$PROJECT_DIR$/zd_4.py" />
+        <option value="$PROJECT_DIR$/zd_3.py" />
+        <option value="$PROJECT_DIR$/1234567890.txt" />
+        <option value="$PROJECT_DIR$/vk_bot_project.py" />
+        <option value="$PROJECT_DIR$/voice_request.py" />
+        <option value="$PROJECT_DIR$/parser_for_bot.py" />
+        <option value="$PROJECT_DIR$/Parser_bot.py" />
+        <option value="$PROJECT_DIR$/GeekyPedia.py" />
+        <option value="$PROJECT_DIR$/E-maill_pr.py" />
+        <option value="$PROJECT_DIR$/longpool.py" />
+        <option value="$PROJECT_DIR$/BOT_VK_(КОНКУРСЫ).py" />
+        <option value="$PROJECT_DIR$/bot_random.py" />
+        <option value="$PROJECT_DIR$/zd_1.py" />
+        <option value="$PROJECT_DIR$/paint.py" />
+        <option value="$PROJECT_DIR$/call_.py" />
+        <option value="$PROJECT_DIR$/hack_wifi.py" />
+        <option value="$PROJECT_DIR$/194073918.txt" />
+        <option value="$PROJECT_DIR$/project_1.py" />
+        <option value="$PROJECT_DIR$/project.py" />
+        <option value="$PROJECT_DIR$/name_person_vk.py" />
+        <option value="$PROJECT_DIR$/krestiki_0.py" />
+        <option value="$PROJECT_DIR$/get_all_audio.py" />
+        <option value="$PROJECT_DIR$/sort.py" />
+        <option value="$PROJECT_DIR$/ege_inf.py" />
+        <option value="$PROJECT_DIR$/AI_1.py" />
+        <option value="$PROJECT_DIR$/Machine learning.py" />
+        <option value="$PROJECT_DIR$/ege_6.py" />
+        <option value="$PROJECT_DIR$/ege_22.py" />
+        <option value="$PROJECT_DIR$/recourse.py" />
+        <option value="$PROJECT_DIR$/game_snake.py" />
+        <option value="$PROJECT_DIR$/ege_16.py" />
+        <option value="$PROJECT_DIR$/ege6_chek.py" />
+        <option value="$PROJECT_DIR$/AI.py" />
+        <option value="$PROJECT_DIR$/top.py" />
+        <option value="$PROJECT_DIR$/ege_25.py" />
+        <option value="$PROJECT_DIR$/light_shot.py" />
+        <option value="$PROJECT_DIR$/ege.py" />
+        <option value="$PROJECT_DIR$/lab1.py" />
+        <option value="$PROJECT_DIR$/lab3.py" />
+        <option value="$PROJECT_DIR$/lab2.py" />
+        <option value="$USER_HOME$/Desktop/bomb.py" />
+        <option value="$PROJECT_DIR$/ege17.py" />
+        <option value="$PROJECT_DIR$/Ege_Var.py" />
+        <option value="$PROJECT_DIR$/Gdz_Bot.py" />
+        <option value="$PROJECT_DIR$/bomb.py" />
+        <option value="$PROJECT_DIR$/messages/test" />
+        <option value="$PROJECT_DIR$/messages/test_file.py" />
+        <option value="$PROJECT_DIR$/qwerty.py" />
+        <option value="$PROJECT_DIR$/test_file.py" />
+        <option value="$PROJECT_DIR$/lab5.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="57" />
+    <option name="width" value="1860" />
+    <option name="height" value="1087" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Python Projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Info_bot_vk" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/bomb.py" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Python" />
+    <property name="settings.editor.splitter.proportion" value="0.17787234" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="Stroy_Product_bot_vk" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="Stroy_Product_bot_vk" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\PycharmProjects\Info_bot_vk" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\PycharmProjects\Info_bot_vk\messages" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.lab5">
+    <configuration name="krestiki_0" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Stroy_Product_bot_vk" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/krestiki_0.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lab5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Stroy_Product_bot_vk" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="qwerty" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Stroy_Product_bot_vk" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/qwerty.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_file (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Stroy_Product_bot_vk" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_file.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_file" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Stroy_Product_bot_vk" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/messages" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/messages/test_file.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.lab5" />
+        <item itemvalue="Python.test_file (1)" />
+        <item itemvalue="Python.test_file" />
+        <item itemvalue="Python.qwerty" />
+        <item itemvalue="Python.krestiki_0" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fd307a08-1edf-4b38-bfa5-1018404fedd8" name="Default Changelist" comment="" />
+      <created>1545671812493</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1545671812493</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="57" y="0" width="1860" height="1087" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Structure" order="0" sideWeight="0.5023622" side_tool="true" weight="0.060028248" />
+      <window_info id="Favorites" order="1" side_tool="true" weight="0.32980227" />
+      <window_info content_ui="combo" id="Project" order="2" sideWeight="0.4976378" weight="0.093333334" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32875264" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49779493" weight="0.11215933" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.31132075" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3297587" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.15961945" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5022051" side_tool="true" weight="0.33125648" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.30083856" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="R Graphics" order="3" weight="0.32963374" />
+      <window_info anchor="right" id="R Packages" order="4" />
+    </layout>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/AppData/Roaming/Python/Python37/site-packages/requests/adapters.py</url>
+          <line>530</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Gdz_Bot.py</url>
+          <line>1103</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Gdz_Bot.py</url>
+          <line>246</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Gdz_Bot.py</url>
+          <line>810</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Gdz_Bot.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test_file.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Калькулятор для вк.py" />
+    <entry file="file://$PROJECT_DIR$/zd_5.py" />
+    <entry file="file://$PROJECT_DIR$/zd_4.py" />
+    <entry file="file://$PROJECT_DIR$/zd_3.py" />
+    <entry file="file://$PROJECT_DIR$/zd_2.py" />
+    <entry file="file://$PROJECT_DIR$/zd_1.py" />
+    <entry file="file://$PROJECT_DIR$/vk_config.v2.json" />
+    <entry file="file://$PROJECT_DIR$/vk_bot_project2.py" />
+    <entry file="file://$PROJECT_DIR$/vk_bot_project.py" />
+    <entry file="file://$PROJECT_DIR$/top.py" />
+    <entry file="file://$PROJECT_DIR$/Timur_bot_test.py" />
+    <entry file="file://$PROJECT_DIR$/utils_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="84" selection-start-line="84" selection-end-line="84" />
+          <folding>
+            <element signature="e#149#186#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_bot_vk_gdz_name.py" />
+    <entry file="file://$PROJECT_DIR$/sort.py" />
+    <entry file="file://$PROJECT_DIR$/recourse.py" />
+    <entry file="file://$PROJECT_DIR$/project_1.py" />
+    <entry file="file://$PROJECT_DIR$/project.py" />
+    <entry file="file://$PROJECT_DIR$/parser_for_bot.py" />
+    <entry file="file://$PROJECT_DIR$/Parser_bot.py" />
+    <entry file="file://$PROJECT_DIR$/name_person_vk.py" />
+    <entry file="file://$PROJECT_DIR$/machine_learning.jpg" />
+    <entry file="file://$PROJECT_DIR$/Machine learning.py" />
+    <entry file="file://$PROJECT_DIR$/longpool.py" />
+    <entry file="file://$PROJECT_DIR$/light_shot.py" />
+    <entry file="file://$PROJECT_DIR$/lab3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/krestiki_0.py" />
+    <entry file="file://$PROJECT_DIR$/hack_wifi.py" />
+    <entry file="file://$PROJECT_DIR$/get_all_audio.py" />
+    <entry file="file://$PROJECT_DIR$/game_snake.py" />
+    <entry file="file://$PROJECT_DIR$/game_bot_telegram.py" />
+    <entry file="file://$PROJECT_DIR$/Ege_Var.py" />
+    <entry file="file://$PROJECT_DIR$/ege_inf.py" />
+    <entry file="file://$PROJECT_DIR$/ege_25.py" />
+    <entry file="file://$PROJECT_DIR$/ege_22.py" />
+    <entry file="file://$PROJECT_DIR$/ege_16.py" />
+    <entry file="file://$PROJECT_DIR$/ege_6.py" />
+    <entry file="file://$PROJECT_DIR$/ege17.py" />
+    <entry file="file://$PROJECT_DIR$/ege6_chek.py" />
+    <entry file="file://$PROJECT_DIR$/E-maill_pr.py" />
+    <entry file="file://$PROJECT_DIR$/data.json" />
+    <entry file="file://$PROJECT_DIR$/call_.py" />
+    <entry file="file://$PROJECT_DIR$/BOT_VK_(КОНКУРСЫ).py" />
+    <entry file="file://$PROJECT_DIR$/bot_random.py" />
+    <entry file="file://$PROJECT_DIR$/Analyser.py" />
+    <entry file="file://$PROJECT_DIR$/AI_1.py" />
+    <entry file="file://$PROJECT_DIR$/AI.py" />
+    <entry file="file://$PROJECT_DIR$/GeekyPedia.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/messages/test_file.py" />
+    <entry file="file://$PROJECT_DIR$/test_file.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qwerty.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="3" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1350">
+          <caret line="201" column="33" lean-forward="true" selection-start-line="201" selection-start-column="33" selection-end-line="201" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
