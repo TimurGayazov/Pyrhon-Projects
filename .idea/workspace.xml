@@ -24,11 +24,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lab5.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1350">
-              <caret line="201" column="33" lean-forward="true" selection-start-line="201" selection-start-column="33" selection-end-line="201" selection-end-column="33" />
+            <state relative-caret-position="108">
+              <caret line="161" column="13" selection-start-line="161" selection-start-column="13" selection-end-line="161" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Gdz_Bot.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -121,13 +130,13 @@
         <option value="$USER_HOME$/Desktop/bomb.py" />
         <option value="$PROJECT_DIR$/ege17.py" />
         <option value="$PROJECT_DIR$/Ege_Var.py" />
-        <option value="$PROJECT_DIR$/Gdz_Bot.py" />
         <option value="$PROJECT_DIR$/bomb.py" />
         <option value="$PROJECT_DIR$/messages/test" />
         <option value="$PROJECT_DIR$/messages/test_file.py" />
         <option value="$PROJECT_DIR$/qwerty.py" />
         <option value="$PROJECT_DIR$/test_file.py" />
         <option value="$PROJECT_DIR$/lab5.py" />
+        <option value="$PROJECT_DIR$/Gdz_Bot.py" />
       </list>
     </option>
   </component>
@@ -136,6 +145,7 @@
     <option name="width" value="1860" />
     <option name="height" value="1087" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -333,7 +343,7 @@
     <layout>
       <window_info id="Structure" order="0" sideWeight="0.5023622" side_tool="true" weight="0.060028248" />
       <window_info id="Favorites" order="1" side_tool="true" weight="0.32980227" />
-      <window_info content_ui="combo" id="Project" order="2" sideWeight="0.4976378" weight="0.093333334" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" sideWeight="0.4976378" visible="true" weight="0.093333334" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32875264" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49779493" weight="0.11215933" />
@@ -396,7 +406,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Калькулятор для вк.py" />
     <entry file="file://$PROJECT_DIR$/zd_5.py" />
     <entry file="file://$PROJECT_DIR$/zd_4.py" />
     <entry file="file://$PROJECT_DIR$/zd_3.py" />
@@ -477,8 +486,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lab5.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1350">
-          <caret line="201" column="33" lean-forward="true" selection-start-line="201" selection-start-column="33" selection-end-line="201" selection-end-column="33" />
+        <state relative-caret-position="108">
+          <caret line="161" column="13" selection-start-line="161" selection-start-column="13" selection-end-line="161" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gdz_Bot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
         </state>
       </provider>
     </entry>
