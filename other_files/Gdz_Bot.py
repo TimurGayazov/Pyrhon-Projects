@@ -6,7 +6,7 @@ import json
 import random
 import datetime
 
-vk = vk_api.VkApi(token="Your token")
+vk = vk_api.VkApi(token="38b25da0a4608c3a3fbcd7ee1650f36b3d1a28eadb0d4549bdad4cb52de0e2168999b6b9d6ca2e8630063")
 vk._auth_token()
 
 
