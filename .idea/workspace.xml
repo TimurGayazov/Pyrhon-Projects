@@ -3,17 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="fd307a08-1edf-4b38-bfa5-1018404fedd8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gdz_Bot.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeekyPedia.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Notes.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bomb.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/qwerty.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_file.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pad/new_lab1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pad/new_lab1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,15 +30,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Pad/new_lab1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="85" lean-forward="true" selection-start-line="85" selection-end-line="85" />
+            <state relative-caret-position="1159">
+              <caret line="61" column="61" selection-start-line="61" selection-start-column="61" selection-end-line="61" selection-end-column="61" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/other_files/Gdz_Bot.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-8225" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/other_files/utils_1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2479" />
           </provider>
         </entry>
       </file>
@@ -175,6 +179,11 @@
             <path>
               <item name="Python Projects" type="b2602c69:ProjectViewProjectNode" />
               <item name="Info_bot_vk" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python Projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Info_bot_vk" type="462c0819:PsiDirectoryNode" />
+              <item name="other_files" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python Projects" type="b2602c69:ProjectViewProjectNode" />
@@ -362,14 +371,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="58" y="12" width="1860" height="1069" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Structure" order="0" sideWeight="0.5023622" side_tool="true" weight="0.060028248" />
       <window_info id="Favorites" order="1" side_tool="true" weight="0.32980227" />
-      <window_info content_ui="combo" id="Project" order="2" sideWeight="0.4976378" visible="true" weight="0.09888889" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" sideWeight="0.4976378" visible="true" weight="0.09888889" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32875264" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49722221" visible="true" weight="0.3568376" />
-      <window_info anchor="bottom" id="Terminal" order="3" weight="0.23717949" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49722221" visible="true" weight="0.08547009" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.13995726" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.31089744" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
@@ -424,7 +434,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Parser_bot.py" />
     <entry file="file://$PROJECT_DIR$/name_person_vk.py" />
     <entry file="file://$PROJECT_DIR$/machine_learning.jpg" />
     <entry file="file://$PROJECT_DIR$/Machine learning.py" />
@@ -560,9 +569,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/other_files/utils_1.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/testwebapp/main/templates/main/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
@@ -599,12 +605,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Pad/new_lab1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="85" lean-forward="true" selection-start-line="85" selection-end-line="85" />
+        <state relative-caret-position="1159">
+          <caret line="61" column="61" selection-start-line="61" selection-start-column="61" selection-end-line="61" selection-end-column="61" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/other_files/Gdz_Bot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8225" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/other_files/utils_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2479" />
       </provider>
     </entry>
   </component>
