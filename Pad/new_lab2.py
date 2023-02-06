@@ -3,7 +3,7 @@ import sys
 import os
 import random
 
-def hidden_func(mat_copy, mat):
+def hidden_func(mat_copy, mat): # функция которая записывает исходные и конечные данные в txt файл
     np.savetxt("lab2_1.txt", mat_copy, fmt='%.1d')
     np.savetxt("lab2_2.txt", mat, fmt='%.1d')
     open("result_lab2.txt", "w").write(open("lab2_1.txt", "r").read() + "\n" + open("lab2_2.txt", "r").read())
@@ -12,12 +12,10 @@ def hidden_func(mat_copy, mat):
 
 
 
-def main_func(mat, m, n):
+def main_func(mat, m, n): # функция поиска среднего значения каждого столбца и строчки
     print(mat)
     print(" ")
-    # np.savetxt("lab2.txt", mat, fmt='%.1d')
     mat_copy = mat
-
     list = []
     list1 = []
 
@@ -25,8 +23,6 @@ def main_func(mat, m, n):
     for i in range(0, m):
         # print(*mat[i], "---", sum(mat[i]) // m)
         list1.append([sum(mat[i]) // m])
-
-
     # print("-----")
 
     new_row = np.array(list)
@@ -34,9 +30,6 @@ def main_func(mat, m, n):
         # print(*mat[:, i], "---", sum(mat[:, i]) // n)
         list.append(sum(mat[:, i]) // n)
     list1.append([sum(list) // len(list)])
-
-    # print(list1, "столбец")
-
     new_row = np.array(list)
     mat = np.vstack([mat, new_row])
     mat = np.c_[mat, list1[:]]
@@ -48,7 +41,7 @@ def main_func(mat, m, n):
 
 
 
-while True:
+while True: # рандоманая генерация матрицы
     check = int(input("Введите 1 для автоматического заполнения матрицы: "))
     if check == 1:
         m = random.randint(2, 10)  # столбец

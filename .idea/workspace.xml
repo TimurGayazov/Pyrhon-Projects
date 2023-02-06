@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd307a08-1edf-4b38-bfa5-1018404fedd8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pad/testlab.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/testwebapp/testwebapp/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/testwebapp/testwebapp/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pad/new_lab2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pad/new_lab2.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,8 +20,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Pad/new_lab2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="324">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -334,14 +332,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="58" y="12" width="1860" height="1069" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Structure" order="0" sideWeight="0.5023622" side_tool="true" weight="0.060028248" />
       <window_info id="Favorites" order="1" side_tool="true" weight="0.32980227" />
-      <window_info active="true" content_ui="combo" id="Project" order="2" sideWeight="0.4976378" visible="true" weight="0.1" />
+      <window_info content_ui="combo" id="Project" order="2" sideWeight="0.4976378" visible="true" weight="0.1" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32875264" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49722221" visible="true" weight="0.2638889" />
-      <window_info anchor="bottom" id="Terminal" order="3" weight="0.13995726" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32799146" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49722221" weight="0.491453" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.0" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.31089744" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
@@ -533,9 +532,6 @@
         <state relative-caret-position="-186" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Pad/lab2">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Pad/lab2.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -555,13 +551,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Pad/lab2">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Pad/result_lab2.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Pad/new_lab2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="324">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
