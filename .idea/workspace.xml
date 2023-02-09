@@ -5,14 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fd307a08-1edf-4b38-bfa5-1018404fedd8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Stroy_Product_bot_vk.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Stroy_Product_bot_vk.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pad/lab1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pad/lab2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pad/new_lab1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pad/new_lab2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pad/result_lab2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pad/lab2/lab2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pad/lab2/lab2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pad/lab2/result_lab2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Pad/lab2/result_lab2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pad/lab3/data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Pad/lab3/data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pad/lab3/lab3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pad/lab3/lab3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pad/reports/Отчет по 1 лабораторной работе Мухаметзянов Тимур.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pad/reports/Отчет по 2 лабораторной работе Мухаметзянов Тимур.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pad/reports/Отчет по 3 лабораторной работе Мухаметзянов Тимур.docx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
