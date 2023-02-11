@@ -11,7 +11,7 @@ def count_obj():  # функция подсчета объектов в опре
     print(f"In folder {folder_name} there {folder_count} objects.")
 
 
-def write_csv(all_data):  # функция записи новыой строки в файл
+def write_csv(all_data):  # функция записи новый строки в файл
     key_inp = input('Enter key: ')
     date_inp = input('Enter date: ')
     price_inp = input('Enter price: ')
