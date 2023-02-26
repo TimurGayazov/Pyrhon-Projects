@@ -1,8 +1,10 @@
-import numpy as np
+from urllib.parse import urlparse
 
-new_row = np.array([10, 11, 12])
-old_row = np.array([1, 0, 0])
+url = 'www.xakep.ru'
+domain_name = urlparse(url).netloc
+domain_name = domain_name.replace('www.', '', 1)
+# domain_name = domain_name.replace('.ru', '', 1)
+domain_name = domain_name.replace('.com', '', 1)
+domain_name = domain_name.replace('.org', '', 1)
 
-
-
-print(new_row + old_row)
+print(domain_name)
