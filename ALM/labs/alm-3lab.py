@@ -151,7 +151,7 @@ class Calculator:
 
 
 if __name__ == "__main__":
-    a = Calculator("1 * 65534 + 20/2) - 10 + 1")
+    a = Calculator('1 * 65534 + 20/-2 - (10 + 1)')
     allowed = a.check_expression()
     print()
     print(allowed)
