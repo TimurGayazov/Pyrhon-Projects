@@ -5,16 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fd307a08-1edf-4b38-bfa5-1018404fedd8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ALM/labs/in.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ALM/labs/out.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ALM/alm-1lab.py" beforeDir="false" afterPath="$PROJECT_DIR$/ALM/labs/alm-1lab.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ALM/alm-2lab.py" beforeDir="false" afterPath="$PROJECT_DIR$/ALM/labs/alm-2lab.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ALM/alm-3lab.py" beforeDir="false" afterPath="$PROJECT_DIR$/ALM/labs/alm-3lab.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ALM/bios_version.py" beforeDir="false" afterPath="$PROJECT_DIR$/ALM/labs/bios_version.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ALM/in.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ALM/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ALM/labs/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ALM/out.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ALM/CourseWork/course-work.py" beforeDir="false" afterPath="$PROJECT_DIR$/ALM/CourseWork/course-work.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ALM/CourseWork/matrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/ALM/CourseWork/matrix.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -166,14 +159,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/User/PycharmProjects/Info_bot_vk/ALM/labs",
-    "settings.editor.selected.configurable": "discord-project"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/PycharmProjects/Info_bot_vk/ALM/labs&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;discord-project&quot;
   }
-}]]></component>
+}</component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
       <console-settings module-name="Stroy_Product_bot_vk" is-module-sdk="true">
@@ -184,14 +177,16 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\PycharmProjects\Info_bot_vk\ALM\labs" />
       <recent name="C:\Users\User\PycharmProjects\Info_bot_vk\Pad\lab4" />
       <recent name="C:\Users\User\PycharmProjects\Info_bot_vk" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\PycharmProjects\Info_bot_vk\ALM\labs" />
+      <recent name="C:\Users\User\PycharmProjects\Info_bot_vk\ALM\CourseWork" />
       <recent name="C:\Users\User\PycharmProjects\Info_bot_vk\BotFiles" />
       <recent name="C:\Users\User\PycharmProjects\Info_bot_vk\Pad" />
       <recent name="C:\Users\User\PycharmProjects\Info_bot_vk\Pad\lab3" />
-      <recent name="C:\Users\User\PycharmProjects\Info_bot_vk\messages" />
     </key>
   </component>
   <component name="RunManager">
