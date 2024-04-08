@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="fd307a08-1edf-4b38-bfa5-1018404fedd8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ALM/CourseWork/course-work.py" beforeDir="false" afterPath="$PROJECT_DIR$/ALM/CourseWork/course-work.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ALM/CourseWork/matrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/ALM/CourseWork/matrix.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -189,7 +187,7 @@
       <recent name="C:\Users\User\PycharmProjects\Info_bot_vk\Pad\lab3" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.lab1 (1)">
     <configuration name="lab1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Stroy_Product_bot_vk" />
       <option name="INTERPRETER_OPTIONS" value="" />
